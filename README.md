@@ -2,8 +2,6 @@
 
 Скучаю, Но Ещё Работаю
 
-## Skills & Technologies
-
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,8 +28,6 @@
 ![PuTTY](https://img.shields.io/badge/PuTTY-3776AB?style=for-the-badge)
 ![WinSCP](https://img.shields.io/badge/WinSCP-008000?style=for-the-badge)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge)
-
----
 
 ## Contact Information
 
