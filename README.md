@@ -1,5 +1,3 @@
-# 💻 Software Developer
-
 Скучаю, Но Ещё Работаю
 
 ### Languages
