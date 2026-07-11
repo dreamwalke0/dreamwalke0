@@ -43,8 +43,5 @@ Open to professional opportunities, freelance projects, and technical collaborat
 
 **Telegram:** [@dreamwalker1337](https://t.me/dreamwalker1337)
 
----
 
-<p align="center">
-  Thanks for visiting my profile!
 </p>
