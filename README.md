@@ -1,23 +1,36 @@
 # 💻 Software Developer
 
-Backend-focused developer specializing in server-side development, automation, and web technologies.
+Specializing in backend development, web technologies, server-side solutions, and automation.
 
-Experienced in building reliable applications, creating efficient solutions, and writing clean, maintainable code.
+Experienced in designing reliable applications, developing efficient systems, and creating clean, maintainable code following modern software engineering practices.
 
 ---
 
 ## Skills & Technologies
 
-### Languages & Web
+### Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Technologies
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
 
-### Development Tools
+### Tools & Environment
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-3776AB?style=for-the-badge)
 ![WinSCP](https://img.shields.io/badge/WinSCP-008000?style=for-the-badge)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge)
