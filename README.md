@@ -28,3 +28,9 @@
 ![WinSCP](https://img.shields.io/badge/WinSCP-008000?style=for-the-badge)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge)
 
+### Design & UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-8A2BE2?style=for-the-badge)
+![Wireframes](https://img.shields.io/badge/Wireframes-000000?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Prototyping-FF7262?style=for-the-badge)
