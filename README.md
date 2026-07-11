@@ -2,8 +2,6 @@
 
 Скучаю, Но Ещё Работаю
 
----
-
 ## Skills & Technologies
 
 ### Languages
