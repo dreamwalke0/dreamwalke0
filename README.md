@@ -28,6 +28,3 @@
 ![WinSCP](https://img.shields.io/badge/WinSCP-008000?style=for-the-badge)
 ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge)
 
-## Contact Information
-
-**Telegram:** [@dreamwalker1337](https://t.me/dreamwalker1337)
