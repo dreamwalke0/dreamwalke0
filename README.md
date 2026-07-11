@@ -1,8 +1,8 @@
 # 💻 Software Developer
 
-Specializing in backend development, web technologies, server-side solutions, and automation.
+Специализируюсь на backend-разработке, создании веб-приложений, серверных решений и автоматизации процессов.
 
-Experienced in designing reliable applications, developing efficient systems, and creating clean, maintainable code following modern software engineering practices.
+Имею опыт разработки надёжных систем, создания эффективных инструментов и написания чистого, поддерживаемого кода с использованием современных подходов в разработке программного обеспечения.
 
 ---
 
